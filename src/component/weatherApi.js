@@ -17,6 +17,7 @@ const getWeatherDataApi = async(city, units = 'metric', setBg) => {
  
     const {weather, main:{feels_like, humidity, pressure, temp, temp_max, temp_min}, name, sys: {country}, wind: {speed} } = fetchData;
 
+    
 
 
 const{description, icon} = weather[0]
@@ -32,9 +33,11 @@ const changeBg = () => {
       setBg(`${Image[3]}`);
     } else if (description.includes("sunny")) {
         setBg(`${Image[4]}`);
-      }
-     else {
+      } else if (description.includes("clear")) {
       setBg(`${Image[5]}`);
+    }
+     else {
+      setBg(`${Image[0]}`);
     }
   }
 
