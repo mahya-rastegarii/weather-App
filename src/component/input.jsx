@@ -17,9 +17,9 @@ const Input = ({setUnits, setCity}) => {
         setUnits(isCelsius ? 'metric' : 'imperial');
     }
     return (  
-     <div className="flex justify-between px-3 py-5 md:w-2/4 bg-bgColor my-3  rounded-md">
+     <div className="flex justify-between w-full px-3 py-5 md:w-2/4 bg-bgColor my-3  rounded-md">
          <input type="text" className=" text-white px-2 py-1 md:placeholder:font-semibold md:placeholder:text-lg rounded-md bg-transparent mr-3 lg:w-2/4  border-slate-100  outline-none border " placeholder="Enter City ..." onKeyDown={enterKeyPress} />
-          <button className="bg-white md:w-24  w-16 px-3 md:px-6 rounded-md py-1 md:py-3 font-semibold text-lg outline-none border-0" onClick={(e) => {handlerButtonClick(e)}}> °F</button>
+          <button className="bg-white md:w-32  w-20 px-3 md:px-6 rounded-md py-1 md:py-3 font-semibold text-lg outline-none border-0" onClick={(e) => {handlerButtonClick(e)}}> °F</button>
      </div> );
 }
  

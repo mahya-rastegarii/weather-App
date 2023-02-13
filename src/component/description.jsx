@@ -54,12 +54,12 @@ const Description = ({weather, units}) => {
     return (
 
             (
-                <div className="grid md:grid-cols-3  grid-cols-2 gap-2  md:gap-4 px-2 content-center md:w-2/4 text-white">
+                <div className="grid md:grid-cols-3 w-full  grid-cols-2 gap-2  md:gap-4 justify-items-center md:w-2/4 text-white">
                     {
                         cards.map(({id, icon, title, data, unit}) => (
 
-                   <div  className=" flex flex-col items-center justify-center p-1 sm:p-2 md:p-[10px] lg:p-4 mx-5 md:mx-0  bg-bgColor rounded-md" key={id}>
-                 <div className="flex items-center space-x-1">
+                   <div key={id} className=" flex flex-col items-center w-full justify-center p-1 sm:p-2 md:p-[10px] lg:p-4 mx-5 md:mx-0  bg-bgColor rounded-md" >
+                 <div className="flex items-center  space-x-1">
                   {icon}
                    <span className=" text-sm ">{title}</span>
              

@@ -40,7 +40,7 @@ const App = () => {
   return ( 
     
   
-      <div className=" h-100vh bg-center w-full bg-no-repeat capitalize bg-cover flex flex-col items-center justify-evenly space-y-5 overflow-hidden" style={{backgroundImage:`url(${bg})` }}>
+      <div className=" h-100vh bg-center w-full bg-no-repeat px-2 capitalize bg-cover flex flex-col items-center justify-evenly space-y-5 overflow-hidden" style={{backgroundImage:`url(${bg})` }}>
    
        <Input setUnits={setUnits} setCity={setCity}/>
         {
