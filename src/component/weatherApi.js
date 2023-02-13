@@ -23,17 +23,17 @@ const getWeatherDataApi = async(city, units = 'metric', setBg) => {
 const{description, icon} = weather[0]
 
 const changeBg = () => {
-    if(description.includes("clouds")) {
+    if(description.includes("clouds" || "باد")) {
       setBg(`${Image[0]}`);
-    } else if (description.includes("rain")) {
+    } else if (description.includes("rain" || "بارانی")) {
       setBg(`${Image[1]}`);
-    } else if (description.includes("snow")) {
+    } else if (description.includes("snow" || "برفی")) {
       setBg(`${Image[2]}`);
-    } else if (description.includes("mist")) {
+    } else if (description.includes("mist" || "مه")) {
       setBg(`${Image[3]}`);
-    } else if (description.includes("sunny")) {
+    } else if (description.includes("sunny" || "آفتابی")) {
         setBg(`${Image[4]}`);
-      } else if (description.includes("clear")) {
+      } else if (description.includes("clear" || "صاف" )) {
       setBg(`${Image[5]}`);
     }
      else {
