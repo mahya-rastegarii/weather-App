@@ -1,5 +1,4 @@
-import Image from "./img/images";
-import {toast} from 'react-hot-toast'
+import Image from "../img/images";
 
 const apiKey = 'c2044f11bf2a6ce36d00ef98261d92d8'
 
@@ -23,24 +22,34 @@ const getWeatherDataApi = async(city, units = 'metric', setBg) => {
 const{description, icon} = weather[0]
 
 const changeBg = () => {
-    if(description.includes("clouds" || "باد")) {
+
+  switch (true) {
+    case description.includes("clouds" || "باد"):
       setBg(`${Image[0]}`);
-    } else if (description.includes("rain" || "بارانی")) {
+      break;
+    case description.includes("rain" || "بارانی"):
       setBg(`${Image[1]}`);
-    } else if (description.includes("snow" || "برفی")) {
+      break;
+    case description.includes("snow" || "برفی"):
       setBg(`${Image[2]}`);
-    } else if (description.includes("mist" || "مه")) {
+      break;
+    case description.includes("mist" || "مه"):
       setBg(`${Image[3]}`);
-    } else if (description.includes("sunny" || "آفتابی")) {
-        setBg(`${Image[4]}`);
-      } else if (description.includes("clear" || "صاف" )) {
+      break;
+    case description.includes("sunny" || "آفتابی"):
+      setBg(`${Image[4]}`);
+      break;
+    case description.includes("clear" || "صاف"):
       setBg(`${Image[5]}`);
-    }
-     else {
-      setBg(`${Image[0]}`);
-    }
+      break;
+    default:
+      setBg(`${Image[6]}`);
+      break;
+  }
+  
   }
 
+ 
  changeBg()
    
 

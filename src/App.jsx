@@ -1,11 +1,10 @@
-import Image from "./component/img/images";
+import Image from "./img/images";
 import Input from "./component/input";
 import Weather from "./component/weather";
 import Description from "./component/description";
 import { useEffect, useState } from "react";
 import getWeatherDataApi from "./component/weatherApi";
-import {BeatLoader} from 'react-spinners'
-import { toast } from "react-hot-toast";
+import {BeatLoader} from 'react-spinners';
 
 
 const App = () => {
