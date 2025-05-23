@@ -50,7 +50,7 @@ npm start
 
 
 ##🌐 API Used
-[OpenWeatherMap API](https://openweathermap.org/city/2643743)
+- [OpenWeatherMap API](https://openweathermap.org/city/2643743)
 
 ---
 
