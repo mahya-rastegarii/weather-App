@@ -70,7 +70,7 @@ npm run dev
 ---
   
 ## 🙋‍♀️ Contact Me | ارتباط با من  
-📧 mahya.rastegari@gmail.com  
+📧 [Email](mahya.rastegari@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mahya-rastegarii)
 
 ---
