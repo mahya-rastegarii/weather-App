@@ -50,7 +50,11 @@ npm start
 
 
 ##🌐 API Used
-- [OpenWeatherMap API](https://openweathermap.org/city/2643743)
+
+<a href="https://openweathermap.org" target="_blank">
+  <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" height="15" />
+  OpenWeatherMap API
+</a>
 
 ---
 
@@ -67,7 +71,7 @@ npm start
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-⚛️-blue" />
+ <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
  </p> 
