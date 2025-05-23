@@ -3,6 +3,8 @@
 
 
 
+
+  
 ## 📝 Description | توضیحات
 A simple and modern weather application that lets you search for any city and shows you the real-time weather conditions.
 
@@ -52,13 +54,13 @@ npm install
 npm start
 
 ```
-
+  
 
 ## 🌐 API Used  | API استفاده‌شده
 [OpenWeatherMap API](https://openweathermap.org/city/2643743)
 
 ---
-
+  
 
 ## 🎯 What I Learned | نکاتی که یاد گرفتم
 * تعامل با API خارجی
@@ -66,7 +68,7 @@ npm start
 * کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
 
 ---
-
+  
 ## 🙋‍♀️ Contact Me | ارتباط با من  
 📧 mahya.rastegari@gmail.com
 
