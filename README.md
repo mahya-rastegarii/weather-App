@@ -1,4 +1,6 @@
-# 🌤️ Weather App | اپلیکیشن آب و هوا
+🌤️ Weather App | اپلیکیشن آب و هوا
+
+
 
 ## 📝 Description | توضیحات
 A simple and modern weather application that lets you search for any city and shows you the real-time weather conditions.
@@ -18,10 +20,12 @@ This project supports:
 ## 🔗 Live Demo | نسخه آنلاین  
 👉 [weather-app-sand-alpha.vercel.app](https://weather-app-sand-alpha.vercel.app)
 
+
 ## 🚀 Tech Stack | تکنولوژی‌ها
 - React   
 - Axios  
 - Tailwind CSS
+
 
 ## ⚙️ Features | امکانات
 - ✅ Get weather info by city name  
@@ -50,10 +54,10 @@ npm start
 
 
 ## 🌐 API Used  | API استفاده‌شده
-
 [OpenWeatherMap API](https://openweathermap.org/city/2643743)
 
 ---
+
 
 ## 🎯 What I Learned | نکاتی که یاد گرفتم
 * تعامل با API خارجی
@@ -63,7 +67,6 @@ npm start
 ---
 
 ## 🙋‍♀️ Contact Me | ارتباط با من  
-
 📧 mahya.rastegari@gmail.com
 
 ---
