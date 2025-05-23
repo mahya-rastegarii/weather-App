@@ -49,12 +49,8 @@ npm start
 ```
 
 
-##🌐 API Used
-
-<a href="https://openweathermap.org" target="_blank">
-  <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="OpenWeatherMap" height="15" />
-  OpenWeatherMap API
-</a>
+##🌐 API Used  
+- [OpenWeatherMap API](https://openweathermap.org/city/2643743)
 
 ---
 
@@ -65,7 +61,7 @@ npm start
 
 ---
 
-🙋‍♀️ Contact Me | ارتباط با من
+🙋‍♀️ Contact Me | ارتباط با من  
 📧 mahya.rastegari@gmail.com
 
 ---
