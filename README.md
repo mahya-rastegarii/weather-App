@@ -56,9 +56,7 @@ npm start
 
 ##🎯 What I Learned | نکاتی که یاد گرفتم
 - ✅ تعامل با API خارجی
-
 - ✅ استفاده از Axios برای درخواست‌های HTTP
-
 - ✅ کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
 
 ---
@@ -68,4 +66,4 @@ npm start
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/tailwindCss" /> <img src="https://img.shields.io/badge/react-⚛️-blue" /> <img src="https://img.shields.io/badge/weather-API-yellow" /> </p> ```
+<p align="center"> <img src="https://img.shields.io/badge/react-⚛️-blue" /> <img src="https://img.shields.io/badge/weather-API-yellow" /> </p> 
