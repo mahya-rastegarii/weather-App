@@ -51,12 +51,13 @@ This project supports:
 git clone https://github.com/mahya-rastegarii/weather-app.git
 cd weather-app
 npm install
-npm start
+npm run dev
 
 ```
   
 
 ## 🌐 API Used  | API استفاده‌شده
+<img src="https://img.shields.io/badge/OpenWeatherMap-007ACC?style=for-the-badge&logo=OpenWeather&logoColor=white" />
 [OpenWeatherMap API](https://openweathermap.org/city/2643743)
 
 ---
@@ -70,7 +71,8 @@ npm start
 ---
   
 ## 🙋‍♀️ Contact Me | ارتباط با من  
-📧 mahya.rastegari@gmail.com
+📧 mahya.rastegari@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mahya-rastegarii)
 
 ---
 
