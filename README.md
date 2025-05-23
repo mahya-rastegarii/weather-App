@@ -55,15 +55,19 @@ npm start
 ---
 
 ##🎯 What I Learned | نکاتی که یاد گرفتم
-- ✅ تعامل با API خارجی
-- ✅ استفاده از Axios برای درخواست‌های HTTP
-- ✅ کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
+* تعامل با API خارجی
+* استفاده از Axios برای درخواست‌های HTTP
+* کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
 
 ---
 
-🙋‍♀️ Contact | ارتباط با من
+🙋‍♀️ Contact Me | ارتباط با من
 📧 mahya.rastegari@gmail.com
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/react-⚛️-blue" /> <img src="https://img.shields.io/badge/weather-API-yellow" /> </p> 
+<p align="center">
+  <img src="https://img.shields.io/badge/react-⚛️-blue" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+ </p> 
