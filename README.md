@@ -20,6 +20,17 @@ This project supports:
 - 🌡️ **تغییر واحد دما** بین سلسیوس و فارنهایت
 - 🌄 **تغییر بک‌گراند** با توجه به وضعیت فعلی هوا
 
+
+## 👀 Screenshots | تصاویر پروژه
+
+### 🖥️ Desktop Version | نسخه دسکتاپ
+<img src="./desktop-screenshot.png" alt="Desktop View" width="100%" />
+
+### 📱 Mobile Version | نسخه موبایل
+<img src="./mobile-screenshot.png" alt="Mobile View" width="250" />
+
+
+
 ## 🔗 Live Demo | نسخه آنلاین  
 👉 [weather-app-sand-alpha.vercel.app](https://weather-app-sand-alpha.vercel.app)
 
