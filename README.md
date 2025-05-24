@@ -27,7 +27,7 @@ This project supports:
 <img src="public/desktop-scteenshot.png" alt="Desktop View" width="100%" />
 
 ### 📱 Mobile Version | نسخه موبایل
-<img src="./mobile-screenshot.png" alt="Mobile View" width="250" />
+<img src="public/mobile-screenshot.png" alt="Mobile View" width="250" />
 
 
 
