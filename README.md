@@ -73,7 +73,14 @@ npm run dev
 ---
   
 
-## 🎯 What I Learned | نکاتی که یاد گرفتم
+## 🎯 What I Learned | نکاتی که یاد گرفتم  
+
+* Working with external APIs
+* Using Axios for HTTP requests
+* Handling different UI states based on fetched data
+
+---
+
 * تعامل با API خارجی
 * استفاده از Axios برای درخواست‌های HTTP
 * کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
