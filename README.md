@@ -70,7 +70,6 @@ npm run dev
 ## 🌐 API Used  | API استفاده‌شده  
 <img src="https://img.shields.io/badge/OpenWeatherMap-007ACC?style=for-the-badge&logo=OpenWeather&logoColor=white" />
 
----
   
 
 ## 🎯 What I Learned | نکاتی که یاد گرفتم  
@@ -85,13 +84,13 @@ npm run dev
 * استفاده از Axios برای درخواست‌های HTTP
 * کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
 
----
+
   
 ## 🙋‍♀️ Contact Me | ارتباط با من  
 📧 [Email](mahya.rastegari@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mahya-rastegarii)
 
----
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
