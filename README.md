@@ -38,9 +38,7 @@ This project supports:
 ## 🚀 Tech Stack | تکنولوژی‌ها
 - React    
 - Tailwind CSS
-- react-spinners
 - react-hot-toast
-- react-icons
 
 
 ## ⚙️ Features | امکانات
