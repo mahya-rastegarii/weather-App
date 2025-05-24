@@ -39,6 +39,9 @@ This project supports:
 - React   
 - Axios  
 - Tailwind CSS
+- react-spinners
+- react-hot-toast
+- react-icons
 
 
 ## ⚙️ Features | امکانات
