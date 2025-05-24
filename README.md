@@ -24,7 +24,7 @@ This project supports:
 ## 👀 Screenshots | تصاویر پروژه
 
 ### 🖥️ Desktop Version | نسخه دسکتاپ
-<img src="public/desktop-screenshot.png" alt="Desktop View" width="100%" />
+<img src="public/desktop-scteenshot.png" alt="Desktop View" width="100%" />
 
 ### 📱 Mobile Version | نسخه موبایل
 <img src="./mobile-screenshot.png" alt="Mobile View" width="250" />
