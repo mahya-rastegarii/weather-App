@@ -36,8 +36,7 @@ This project supports:
 
 
 ## 🚀 Tech Stack | تکنولوژی‌ها
-- React   
-- Axios  
+- React    
 - Tailwind CSS
 - react-spinners
 - react-hot-toast
@@ -78,13 +77,13 @@ npm run dev
 ## 🎯 What I Learned | نکاتی که یاد گرفتم  
 
 * Working with external APIs
-* Using Axios for HTTP requests
+* Using Fetch for HTTP requests
 * Handling different UI states based on fetched data
 
 ---
 
 * تعامل با API خارجی
-* استفاده از Axios برای درخواست‌های HTTP
+* استفاده از fetch برای درخواست‌های HTTP
 * کار با حالت‌های مختلف UI بر اساس داده‌های دریافت‌شده
 
 
@@ -98,5 +97,4 @@ npm run dev
 <p align="center">
  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
  </p> 
